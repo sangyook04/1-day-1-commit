@@ -2,7 +2,7 @@ package kswWorkSpace;
 
 import java.util.Scanner;
 
-public class day_20210710_1000 {
+public class day_20210710_1001 {
 
 	public static void main(String[] args) {
 		
@@ -16,7 +16,7 @@ public class day_20210710_1000 {
 		number1 = sc.nextInt();
 		number2 = sc.nextInt();
 		
-		sumNumber = number1 - number2;
+		sumNumber = number1 + number2;
 		
 		System.out.println(sumNumber);
 
