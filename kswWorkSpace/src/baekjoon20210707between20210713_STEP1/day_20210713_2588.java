@@ -1,4 +1,4 @@
-package baekjoon20210707between20210713;
+package baekjoon20210707between20210713_STEP1;
 
 import java.util.Scanner;
 
