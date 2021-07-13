@@ -1,4 +1,4 @@
-package kswWorkSpace;
+package baekjoon20210707between20210713;
 
 import java.util.Scanner;
 
