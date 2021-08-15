@@ -17,6 +17,7 @@ public class day_20210814_11720 {
 		}
 		
 		System.out.println(sum);
+		
 	}
 
 }
