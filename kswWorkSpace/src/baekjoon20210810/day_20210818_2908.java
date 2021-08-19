@@ -19,7 +19,6 @@ public class day_20210818_2908 {
 			System.out.println(sangsuNum2);
 		}
 
-		
 	}
 
 }
