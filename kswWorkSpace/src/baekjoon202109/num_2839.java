@@ -11,7 +11,6 @@ public class num_2839 {
 		int sugar = sc.nextInt();
 		
 		
-		
 	}
 	
 }
